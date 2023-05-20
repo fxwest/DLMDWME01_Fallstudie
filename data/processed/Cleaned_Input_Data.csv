@@ -83,7 +83,6 @@ tmsp,country,amount,success,PSP,3D_secured,card
 2019-01-01 01:26:51,Germany,37.0,False,Simplecard,False,Master
 2019-01-01 01:27:10,Germany,37.0,False,Moneycard,False,Master
 2019-01-01 01:28:02,Germany,37.0,False,UK_Card,False,Master
-2019-01-01 01:28:02,Germany,37.0,False,UK_Card,False,Master
 2019-01-01 01:28:53,Germany,37.0,False,Simplecard,False,Master
 2019-01-01 01:35:33,Germany,56.0,False,Simplecard,True,Visa
 2019-01-01 01:35:55,Germany,56.0,False,UK_Card,True,Visa
@@ -495,10 +494,8 @@ tmsp,country,amount,success,PSP,3D_secured,card
 2019-01-01 09:34:47,Germany,170.0,False,Moneycard,False,Diners
 2019-01-01 09:35:35,Germany,170.0,False,UK_Card,False,Diners
 2019-01-01 09:35:38,Germany,170.0,False,UK_Card,False,Diners
-2019-01-01 09:35:38,Germany,170.0,False,UK_Card,False,Diners
 2019-01-01 09:36:12,Germany,170.0,True,UK_Card,False,Diners
 2019-01-01 09:39:06,Germany,260.0,True,UK_Card,False,Master
-2019-01-01 09:44:27,Germany,113.0,False,UK_Card,False,Visa
 2019-01-01 09:44:27,Germany,113.0,False,UK_Card,False,Visa
 2019-01-01 09:44:59,Germany,113.0,False,UK_Card,False,Visa
 2019-01-01 09:45:18,Germany,113.0,False,Goldcard,False,Visa
@@ -601,7 +598,6 @@ tmsp,country,amount,success,PSP,3D_secured,card
 2019-01-01 11:22:49,Switzerland,368.0,False,Simplecard,False,Master
 2019-01-01 11:25:06,Germany,252.0,True,Simplecard,False,Diners
 2019-01-01 11:27:04,Germany,148.0,False,Simplecard,False,Master
-2019-01-01 11:32:44,Germany,170.0,False,UK_Card,False,Visa
 2019-01-01 11:32:44,Germany,170.0,False,UK_Card,False,Visa
 2019-01-01 11:33:13,Germany,170.0,True,UK_Card,False,Visa
 2019-01-01 11:35:35,Austria,353.0,False,UK_Card,True,Diners
@@ -1392,7 +1388,6 @@ tmsp,country,amount,success,PSP,3D_secured,card
 2019-01-02 03:04:23,Germany,18.0,True,UK_Card,True,Visa
 2019-01-02 03:05:54,Austria,229.0,False,Simplecard,False,Master
 2019-01-02 03:06:14,Austria,229.0,False,UK_Card,False,Master
-2019-01-02 03:06:14,Austria,229.0,False,UK_Card,False,Master
 2019-01-02 03:06:36,Austria,229.0,False,UK_Card,False,Master
 2019-01-02 03:07:01,Austria,229.0,False,UK_Card,False,Master
 2019-01-02 03:11:52,Germany,180.0,False,UK_Card,False,Master
@@ -1442,7 +1437,6 @@ tmsp,country,amount,success,PSP,3D_secured,card
 2019-01-02 03:59:10,Germany,92.0,False,UK_Card,False,Visa
 2019-01-02 03:59:15,Germany,92.0,False,UK_Card,False,Visa
 2019-01-02 03:59:20,Germany,92.0,False,Moneycard,False,Visa
-2019-01-02 04:00:37,Germany,203.0,False,UK_Card,False,Master
 2019-01-02 04:00:37,Germany,203.0,False,UK_Card,False,Master
 2019-01-02 04:01:13,Germany,203.0,False,Simplecard,False,Master
 2019-01-02 04:02:08,Germany,203.0,False,Simplecard,False,Master
@@ -1861,7 +1855,6 @@ tmsp,country,amount,success,PSP,3D_secured,card
 2019-01-02 12:50:38,Germany,168.0,False,UK_Card,False,Master
 2019-01-02 12:50:59,Germany,168.0,False,Moneycard,False,Master
 2019-01-02 12:51:51,Germany,168.0,False,UK_Card,False,Master
-2019-01-02 12:53:12,Germany,216.0,False,Simplecard,False,Master
 2019-01-02 12:53:12,Germany,216.0,False,Simplecard,False,Master
 2019-01-02 12:55:56,Austria,41.0,False,UK_Card,False,Visa
 2019-01-02 12:56:13,Austria,41.0,True,Moneycard,False,Visa
@@ -3937,7 +3930,6 @@ tmsp,country,amount,success,PSP,3D_secured,card
 2019-01-04 09:03:46,Switzerland,269.0,False,UK_Card,False,Diners
 2019-01-04 09:06:40,Germany,156.0,True,Simplecard,False,Diners
 2019-01-04 09:08:04,Austria,109.0,False,UK_Card,False,Master
-2019-01-04 09:08:04,Austria,109.0,False,UK_Card,False,Master
 2019-01-04 09:08:15,Austria,109.0,True,Simplecard,False,Master
 2019-01-04 09:10:16,Austria,297.0,False,UK_Card,False,Visa
 2019-01-04 09:10:25,Austria,297.0,False,UK_Card,False,Visa
@@ -4050,7 +4042,6 @@ tmsp,country,amount,success,PSP,3D_secured,card
 2019-01-04 11:55:26,Germany,230.0,False,UK_Card,False,Master
 2019-01-04 11:57:05,Germany,77.0,False,UK_Card,False,Master
 2019-01-04 11:57:33,Germany,77.0,False,Simplecard,False,Master
-2019-01-04 11:57:35,Germany,77.0,False,UK_Card,False,Master
 2019-01-04 11:57:35,Germany,77.0,False,UK_Card,False,Master
 2019-01-04 11:59:28,Germany,329.0,False,Simplecard,True,Visa
 2019-01-04 11:59:36,Germany,329.0,True,UK_Card,True,Visa
@@ -4781,7 +4772,6 @@ tmsp,country,amount,success,PSP,3D_secured,card
 2019-01-05 05:55:21,Austria,49.0,True,UK_Card,True,Master
 2019-01-05 05:57:42,Germany,346.0,False,Simplecard,False,Diners
 2019-01-05 05:57:52,Germany,346.0,True,Goldcard,False,Diners
-2019-01-05 06:01:47,Germany,291.0,False,UK_Card,False,Master
 2019-01-05 06:01:47,Germany,291.0,False,UK_Card,False,Master
 2019-01-05 06:02:35,Germany,291.0,False,Simplecard,False,Master
 2019-01-05 06:03:23,Germany,291.0,False,UK_Card,False,Master
@@ -6059,7 +6049,6 @@ tmsp,country,amount,success,PSP,3D_secured,card
 2019-01-06 20:23:43,Switzerland,296.0,False,UK_Card,False,Master
 2019-01-06 20:24:55,Germany,341.0,False,Goldcard,False,Master
 2019-01-06 20:25:46,Germany,341.0,False,Moneycard,False,Master
-2019-01-06 20:25:46,Germany,341.0,False,Moneycard,False,Master
 2019-01-06 20:26:43,Germany,341.0,True,UK_Card,False,Master
 2019-01-06 20:30:12,Germany,165.0,False,UK_Card,False,Master
 2019-01-06 20:32:55,Switzerland,191.0,False,UK_Card,True,Diners
@@ -6967,7 +6956,6 @@ tmsp,country,amount,success,PSP,3D_secured,card
 2019-01-07 19:40:12,Germany,271.0,False,UK_Card,False,Master
 2019-01-07 19:41:22,Germany,161.0,True,Goldcard,True,Visa
 2019-01-07 19:42:44,Germany,296.0,False,Moneycard,True,Master
-2019-01-07 19:42:52,Germany,296.0,False,UK_Card,True,Master
 2019-01-07 19:42:52,Germany,296.0,False,UK_Card,True,Master
 2019-01-07 19:45:38,Germany,274.0,False,Simplecard,True,Visa
 2019-01-07 19:46:24,Germany,274.0,False,UK_Card,True,Visa
@@ -9159,7 +9147,6 @@ tmsp,country,amount,success,PSP,3D_secured,card
 2019-01-10 01:54:49,Switzerland,237.0,False,UK_Card,False,Master
 2019-01-10 01:54:53,Switzerland,237.0,False,Goldcard,False,Master
 2019-01-10 01:55:10,Switzerland,237.0,False,UK_Card,False,Master
-2019-01-10 01:55:10,Switzerland,237.0,False,UK_Card,False,Master
 2019-01-10 01:59:22,Austria,273.0,False,UK_Card,False,Master
 2019-01-10 02:05:17,Germany,96.0,False,Simplecard,False,Visa
 2019-01-10 02:05:18,Germany,96.0,False,UK_Card,False,Visa
@@ -9664,7 +9651,6 @@ tmsp,country,amount,success,PSP,3D_secured,card
 2019-01-10 15:51:04,Austria,220.0,False,Simplecard,False,Master
 2019-01-10 15:51:25,Austria,220.0,True,Simplecard,False,Master
 2019-01-10 15:53:35,Austria,106.0,False,Simplecard,False,Master
-2019-01-10 15:55:02,Germany,226.0,False,UK_Card,True,Master
 2019-01-10 15:55:02,Germany,226.0,False,UK_Card,True,Master
 2019-01-10 15:56:03,Austria,319.0,False,Simplecard,False,Visa
 2019-01-10 15:57:06,Germany,294.0,False,Simplecard,False,Master
@@ -10452,7 +10438,6 @@ tmsp,country,amount,success,PSP,3D_secured,card
 2019-01-11 12:14:50,Germany,115.0,False,UK_Card,False,Visa
 2019-01-11 12:15:01,Germany,115.0,True,UK_Card,False,Visa
 2019-01-11 12:19:43,Germany,26.0,False,UK_Card,False,Master
-2019-01-11 12:19:43,Germany,26.0,False,UK_Card,False,Master
 2019-01-11 12:19:48,Germany,26.0,False,Simplecard,False,Master
 2019-01-11 12:24:21,Germany,123.0,True,Simplecard,False,Diners
 2019-01-11 12:27:44,Austria,236.0,False,UK_Card,False,Master
@@ -10868,7 +10853,6 @@ tmsp,country,amount,success,PSP,3D_secured,card
 2019-01-12 00:08:43,Germany,199.0,False,Moneycard,True,Master
 2019-01-12 00:08:46,Germany,199.0,True,UK_Card,True,Master
 2019-01-12 00:11:20,Austria,417.0,False,UK_Card,False,Master
-2019-01-12 00:12:22,Germany,280.0,False,UK_Card,False,Master
 2019-01-12 00:12:22,Germany,280.0,False,UK_Card,False,Master
 2019-01-12 00:12:32,Germany,280.0,False,Simplecard,False,Master
 2019-01-12 00:13:58,Switzerland,134.0,False,Moneycard,False,Visa
@@ -11335,7 +11319,6 @@ tmsp,country,amount,success,PSP,3D_secured,card
 2019-01-12 14:34:59,Germany,189.0,True,Simplecard,True,Master
 2019-01-12 14:36:45,Austria,216.0,False,Simplecard,False,Master
 2019-01-12 14:36:46,Austria,216.0,False,Simplecard,False,Master
-2019-01-12 14:39:59,Germany,457.0,False,UK_Card,True,Diners
 2019-01-12 14:39:59,Germany,457.0,False,UK_Card,True,Diners
 2019-01-12 14:41:43,Austria,265.0,False,Simplecard,False,Master
 2019-01-12 14:43:17,Germany,90.0,False,UK_Card,True,Visa
@@ -11863,7 +11846,6 @@ tmsp,country,amount,success,PSP,3D_secured,card
 2019-01-13 10:49:42,Switzerland,292.0,False,UK_Card,False,Visa
 2019-01-13 10:51:43,Germany,241.0,False,Simplecard,False,Master
 2019-01-13 10:55:09,Germany,152.0,False,UK_Card,True,Visa
-2019-01-13 10:55:09,Germany,152.0,False,UK_Card,True,Visa
 2019-01-13 10:55:58,Germany,152.0,True,Simplecard,True,Visa
 2019-01-13 10:57:37,Austria,239.0,True,Moneycard,False,Master
 2019-01-13 10:59:33,Germany,198.0,True,Simplecard,True,Visa
@@ -12032,7 +12014,6 @@ tmsp,country,amount,success,PSP,3D_secured,card
 2019-01-13 17:03:39,Germany,49.0,False,UK_Card,False,Diners
 2019-01-13 17:07:33,Switzerland,204.0,False,UK_Card,True,Visa
 2019-01-13 17:07:38,Switzerland,204.0,False,UK_Card,True,Visa
-2019-01-13 17:10:44,Germany,183.0,False,UK_Card,False,Visa
 2019-01-13 17:10:44,Germany,183.0,False,UK_Card,False,Visa
 2019-01-13 17:14:37,Germany,323.0,False,UK_Card,True,Visa
 2019-01-13 17:18:50,Switzerland,127.0,False,UK_Card,False,Diners
@@ -13133,7 +13114,6 @@ tmsp,country,amount,success,PSP,3D_secured,card
 2019-01-15 01:56:56,Germany,201.0,True,Goldcard,True,Master
 2019-01-15 01:58:28,Germany,190.0,True,UK_Card,True,Master
 2019-01-15 02:01:33,Germany,181.0,False,UK_Card,False,Master
-2019-01-15 02:01:33,Germany,181.0,False,UK_Card,False,Master
 2019-01-15 02:01:46,Germany,181.0,False,Simplecard,False,Master
 2019-01-15 02:02:25,Germany,181.0,False,UK_Card,False,Master
 2019-01-15 02:03:03,Germany,181.0,False,Moneycard,False,Master
@@ -13250,7 +13230,6 @@ tmsp,country,amount,success,PSP,3D_secured,card
 2019-01-15 04:47:57,Switzerland,129.0,False,Simplecard,False,Master
 2019-01-15 04:49:03,Austria,407.0,False,Moneycard,False,Visa
 2019-01-15 04:50:23,Switzerland,123.0,False,Moneycard,False,Master
-2019-01-15 04:52:31,Austria,208.0,False,Simplecard,False,Master
 2019-01-15 04:52:31,Austria,208.0,False,Simplecard,False,Master
 2019-01-15 04:53:50,Germany,287.0,False,UK_Card,True,Visa
 2019-01-15 04:55:13,Germany,233.0,False,UK_Card,False,Master
@@ -14121,7 +14100,6 @@ tmsp,country,amount,success,PSP,3D_secured,card
 2019-01-16 04:20:16,Switzerland,115.0,False,UK_Card,False,Master
 2019-01-16 04:20:22,Switzerland,115.0,False,UK_Card,False,Master
 2019-01-16 04:21:16,Switzerland,115.0,False,Moneycard,False,Master
-2019-01-16 04:21:52,Switzerland,115.0,False,UK_Card,False,Master
 2019-01-16 04:21:52,Switzerland,115.0,False,UK_Card,False,Master
 2019-01-16 04:22:44,Switzerland,115.0,False,UK_Card,False,Master
 2019-01-16 04:26:27,Austria,313.0,False,Moneycard,False,Master
@@ -15790,7 +15768,6 @@ tmsp,country,amount,success,PSP,3D_secured,card
 2019-01-18 05:58:41,Switzerland,177.0,True,UK_Card,False,Visa
 2019-01-18 05:59:46,Germany,164.0,False,UK_Card,False,Master
 2019-01-18 06:00:33,Germany,164.0,False,UK_Card,False,Master
-2019-01-18 06:00:33,Germany,164.0,False,UK_Card,False,Master
 2019-01-18 06:00:34,Germany,164.0,False,Simplecard,False,Master
 2019-01-18 06:00:53,Germany,164.0,True,UK_Card,False,Master
 2019-01-18 06:05:42,Switzerland,254.0,False,UK_Card,False,Master
@@ -16637,7 +16614,6 @@ tmsp,country,amount,success,PSP,3D_secured,card
 2019-01-19 08:37:54,Austria,132.0,False,Simplecard,False,Visa
 2019-01-19 08:40:52,Switzerland,335.0,True,Goldcard,True,Master
 2019-01-19 08:42:39,Germany,229.0,False,UK_Card,False,Master
-2019-01-19 08:42:39,Germany,229.0,False,UK_Card,False,Master
 2019-01-19 08:45:12,Austria,214.0,True,Simplecard,True,Master
 2019-01-19 08:51:05,Austria,242.0,False,Moneycard,False,Master
 2019-01-19 08:58:14,Germany,163.0,False,Moneycard,False,Master
@@ -16811,7 +16787,6 @@ tmsp,country,amount,success,PSP,3D_secured,card
 2019-01-19 14:38:14,Germany,118.0,False,Simplecard,False,Diners
 2019-01-19 14:39:36,Germany,216.0,True,Goldcard,True,Diners
 2019-01-19 14:43:21,Germany,115.0,False,Simplecard,False,Visa
-2019-01-19 14:48:56,Germany,13.0,False,UK_Card,True,Master
 2019-01-19 14:48:56,Germany,13.0,False,UK_Card,True,Master
 2019-01-19 14:51:17,Germany,132.0,False,UK_Card,False,Master
 2019-01-19 14:51:31,Germany,132.0,False,UK_Card,False,Master
@@ -19698,7 +19673,6 @@ tmsp,country,amount,success,PSP,3D_secured,card
 2019-01-23 08:27:30,Switzerland,349.0,False,UK_Card,True,Master
 2019-01-23 08:32:58,Germany,267.0,False,Goldcard,False,Master
 2019-01-23 08:32:59,Germany,267.0,False,UK_Card,False,Master
-2019-01-23 08:32:59,Germany,267.0,False,UK_Card,False,Master
 2019-01-23 08:34:11,Germany,74.0,False,Simplecard,False,Master
 2019-01-23 08:34:20,Germany,74.0,False,Simplecard,False,Master
 2019-01-23 08:35:46,Germany,314.0,False,Simplecard,False,Visa
@@ -20093,7 +20067,6 @@ tmsp,country,amount,success,PSP,3D_secured,card
 2019-01-23 19:45:37,Germany,61.0,False,UK_Card,False,Master
 2019-01-23 19:46:08,Germany,61.0,True,UK_Card,False,Master
 2019-01-23 19:48:01,Germany,50.0,True,UK_Card,False,Master
-2019-01-23 19:49:53,Switzerland,329.0,False,UK_Card,False,Master
 2019-01-23 19:49:53,Switzerland,329.0,False,UK_Card,False,Master
 2019-01-23 19:50:46,Switzerland,329.0,False,UK_Card,False,Master
 2019-01-23 19:51:59,Switzerland,249.0,True,Simplecard,False,Visa
@@ -21678,7 +21651,6 @@ tmsp,country,amount,success,PSP,3D_secured,card
 2019-01-25 21:49:20,Germany,214.0,False,Simplecard,False,Master
 2019-01-25 21:49:37,Germany,214.0,False,Simplecard,False,Master
 2019-01-25 21:50:41,Germany,162.0,False,Moneycard,True,Master
-2019-01-25 21:52:16,Switzerland,146.0,False,UK_Card,False,Visa
 2019-01-25 21:52:16,Switzerland,146.0,False,UK_Card,False,Visa
 2019-01-25 21:52:16,Switzerland,146.0,True,UK_Card,False,Visa
 2019-01-25 21:53:50,Germany,163.0,False,Goldcard,False,Master
@@ -23363,7 +23335,6 @@ tmsp,country,amount,success,PSP,3D_secured,card
 2019-01-28 11:16:21,Germany,269.0,False,UK_Card,False,Master
 2019-01-28 11:17:34,Switzerland,244.0,False,Moneycard,False,Master
 2019-01-28 11:17:38,Switzerland,244.0,False,UK_Card,False,Master
-2019-01-28 11:17:38,Switzerland,244.0,False,UK_Card,False,Master
 2019-01-28 11:21:51,Austria,430.0,True,UK_Card,False,Diners
 2019-01-28 11:24:29,Germany,89.0,True,UK_Card,False,Master
 2019-01-28 11:25:32,Switzerland,326.0,False,UK_Card,False,Master
@@ -23667,7 +23638,6 @@ tmsp,country,amount,success,PSP,3D_secured,card
 2019-01-28 19:56:46,Germany,254.0,False,Simplecard,True,Master
 2019-01-28 19:58:20,Austria,167.0,False,UK_Card,True,Master
 2019-01-28 19:58:53,Austria,167.0,False,UK_Card,True,Master
-2019-01-28 19:58:53,Austria,167.0,False,UK_Card,True,Master
 2019-01-28 19:59:16,Austria,167.0,True,UK_Card,True,Master
 2019-01-28 20:00:34,Germany,96.0,True,UK_Card,False,Master
 2019-01-28 20:02:20,Austria,212.0,True,Simplecard,True,Visa
@@ -23932,7 +23902,6 @@ tmsp,country,amount,success,PSP,3D_secured,card
 2019-01-29 03:21:54,Germany,129.0,True,UK_Card,False,Diners
 2019-01-29 03:23:00,Germany,219.0,False,Moneycard,False,Master
 2019-01-29 03:25:35,Germany,127.0,False,Simplecard,False,Master
-2019-01-29 03:27:04,Germany,448.0,False,UK_Card,True,Master
 2019-01-29 03:27:04,Germany,448.0,False,UK_Card,True,Master
 2019-01-29 03:27:44,Germany,448.0,False,UK_Card,True,Master
 2019-01-29 03:30:26,Germany,105.0,False,UK_Card,True,Visa
@@ -24417,7 +24386,6 @@ tmsp,country,amount,success,PSP,3D_secured,card
 2019-01-29 16:52:11,Germany,206.0,False,Simplecard,True,Diners
 2019-01-29 16:52:13,Germany,206.0,False,UK_Card,True,Diners
 2019-01-29 16:52:16,Germany,206.0,False,UK_Card,True,Diners
-2019-01-29 16:52:16,Germany,206.0,False,UK_Card,True,Diners
 2019-01-29 16:52:50,Germany,206.0,False,UK_Card,True,Diners
 2019-01-29 16:54:27,Germany,314.0,True,UK_Card,False,Master
 2019-01-29 16:55:59,Germany,208.0,False,UK_Card,False,Master
@@ -24864,7 +24832,6 @@ tmsp,country,amount,success,PSP,3D_secured,card
 2019-01-30 04:49:13,Switzerland,107.0,False,UK_Card,False,Diners
 2019-01-30 04:50:00,Switzerland,107.0,False,Moneycard,False,Diners
 2019-01-30 04:51:05,Germany,178.0,False,UK_Card,False,Master
-2019-01-30 04:51:06,Germany,178.0,False,UK_Card,False,Master
 2019-01-30 04:51:06,Germany,178.0,False,UK_Card,False,Master
 2019-01-30 04:51:23,Germany,178.0,False,Goldcard,False,Master
 2019-01-30 04:53:28,Germany,297.0,False,UK_Card,False,Diners
@@ -26065,7 +26032,6 @@ tmsp,country,amount,success,PSP,3D_secured,card
 2019-01-31 16:50:27,Germany,177.0,True,Simplecard,False,Visa
 2019-01-31 16:51:35,Switzerland,298.0,False,UK_Card,False,Master
 2019-01-31 16:52:27,Switzerland,298.0,False,Simplecard,False,Master
-2019-01-31 16:52:27,Switzerland,298.0,False,Simplecard,False,Master
 2019-01-31 16:57:03,Germany,190.0,False,UK_Card,False,Master
 2019-01-31 17:01:31,Germany,294.0,False,UK_Card,False,Master
 2019-01-31 17:01:49,Germany,294.0,False,UK_Card,False,Master
@@ -26875,7 +26841,6 @@ tmsp,country,amount,success,PSP,3D_secured,card
 2019-02-01 12:39:08,Austria,231.0,False,UK_Card,True,Diners
 2019-02-01 12:39:12,Austria,231.0,True,Moneycard,True,Diners
 2019-02-01 12:41:38,Germany,186.0,False,UK_Card,False,Master
-2019-02-01 12:41:38,Germany,186.0,False,UK_Card,False,Master
 2019-02-01 12:41:51,Germany,186.0,False,UK_Card,False,Master
 2019-02-01 12:42:37,Germany,186.0,False,UK_Card,False,Master
 2019-02-01 12:42:40,Germany,186.0,False,Goldcard,False,Master
@@ -26982,7 +26947,6 @@ tmsp,country,amount,success,PSP,3D_secured,card
 2019-02-01 14:49:24,Germany,399.0,False,Simplecard,False,Diners
 2019-02-01 14:50:37,Germany,175.0,False,Simplecard,False,Diners
 2019-02-01 14:52:33,Austria,304.0,False,Simplecard,False,Master
-2019-02-01 14:52:41,Austria,304.0,False,UK_Card,False,Master
 2019-02-01 14:52:41,Austria,304.0,False,UK_Card,False,Master
 2019-02-01 14:52:52,Austria,304.0,True,UK_Card,False,Master
 2019-02-01 14:54:21,Germany,275.0,False,Simplecard,False,Master
@@ -27261,7 +27225,6 @@ tmsp,country,amount,success,PSP,3D_secured,card
 2019-02-01 20:57:42,Germany,161.0,False,Moneycard,False,Visa
 2019-02-01 21:01:35,Austria,245.0,True,Simplecard,True,Diners
 2019-02-01 21:02:42,Austria,25.0,False,Simplecard,False,Visa
-2019-02-01 21:02:42,Austria,25.0,False,Simplecard,False,Visa
 2019-02-01 21:03:23,Austria,25.0,False,UK_Card,False,Visa
 2019-02-01 21:06:36,Switzerland,367.0,False,UK_Card,False,Master
 2019-02-01 21:06:49,Switzerland,367.0,False,UK_Card,False,Master
@@ -27368,7 +27331,6 @@ tmsp,country,amount,success,PSP,3D_secured,card
 2019-02-01 23:09:18,Germany,215.0,False,UK_Card,False,Visa
 2019-02-01 23:09:59,Germany,215.0,True,UK_Card,False,Visa
 2019-02-01 23:13:23,Germany,293.0,True,UK_Card,False,Master
-2019-02-01 23:15:46,Switzerland,101.0,False,UK_Card,False,Master
 2019-02-01 23:15:46,Switzerland,101.0,False,UK_Card,False,Master
 2019-02-01 23:16:30,Switzerland,101.0,False,UK_Card,False,Master
 2019-02-01 23:19:28,Austria,88.0,False,Moneycard,False,Master
@@ -27693,7 +27655,6 @@ tmsp,country,amount,success,PSP,3D_secured,card
 2019-02-02 06:25:05,Austria,447.0,False,UK_Card,False,Master
 2019-02-02 06:25:16,Austria,447.0,False,Simplecard,False,Master
 2019-02-02 06:26:09,Austria,447.0,False,UK_Card,False,Master
-2019-02-02 06:26:09,Austria,447.0,False,UK_Card,False,Master
 2019-02-02 06:28:24,Germany,198.0,True,Simplecard,False,Master
 2019-02-02 06:29:40,Germany,315.0,True,UK_Card,False,Master
 2019-02-02 06:33:23,Germany,190.0,False,UK_Card,False,Master
@@ -27867,7 +27828,6 @@ tmsp,country,amount,success,PSP,3D_secured,card
 2019-02-02 11:24:23,Germany,37.0,False,UK_Card,False,Master
 2019-02-02 11:25:15,Germany,37.0,False,UK_Card,False,Master
 2019-02-02 11:25:25,Germany,37.0,True,Goldcard,False,Master
-2019-02-02 11:31:23,Germany,86.0,False,UK_Card,False,Visa
 2019-02-02 11:31:23,Germany,86.0,False,UK_Card,False,Visa
 2019-02-02 11:31:30,Germany,86.0,False,UK_Card,False,Visa
 2019-02-02 11:31:55,Germany,86.0,True,Goldcard,False,Visa
@@ -28079,7 +28039,6 @@ tmsp,country,amount,success,PSP,3D_secured,card
 2019-02-02 15:41:24,Germany,164.0,False,Simplecard,False,Diners
 2019-02-02 15:42:01,Germany,164.0,False,UK_Card,False,Diners
 2019-02-02 15:44:48,Germany,403.0,False,UK_Card,True,Diners
-2019-02-02 15:44:50,Germany,403.0,False,UK_Card,True,Diners
 2019-02-02 15:44:50,Germany,403.0,False,UK_Card,True,Diners
 2019-02-02 15:45:02,Germany,403.0,False,UK_Card,True,Diners
 2019-02-02 15:46:05,Germany,352.0,True,UK_Card,False,Diners
@@ -28336,7 +28295,6 @@ tmsp,country,amount,success,PSP,3D_secured,card
 2019-02-02 21:22:02,Switzerland,388.0,False,Moneycard,False,Master
 2019-02-02 21:24:13,Austria,371.0,True,Goldcard,False,Master
 2019-02-02 21:25:42,Austria,250.0,False,Simplecard,False,Master
-2019-02-02 21:26:01,Austria,250.0,False,UK_Card,False,Master
 2019-02-02 21:26:01,Austria,250.0,False,UK_Card,False,Master
 2019-02-02 21:26:53,Austria,250.0,False,Simplecard,False,Master
 2019-02-02 21:27:42,Austria,250.0,False,UK_Card,False,Master
@@ -29121,7 +29079,6 @@ tmsp,country,amount,success,PSP,3D_secured,card
 2019-02-03 17:28:22,Germany,55.0,False,Simplecard,False,Master
 2019-02-03 17:28:33,Germany,55.0,False,UK_Card,False,Master
 2019-02-03 17:28:39,Germany,55.0,False,UK_Card,False,Master
-2019-02-03 17:28:39,Germany,55.0,False,UK_Card,False,Master
 2019-02-03 17:29:38,Germany,55.0,False,UK_Card,False,Master
 2019-02-03 17:29:57,Germany,55.0,False,UK_Card,False,Master
 2019-02-03 17:30:01,Germany,55.0,False,Simplecard,False,Master
@@ -29452,7 +29409,6 @@ tmsp,country,amount,success,PSP,3D_secured,card
 2019-02-04 01:57:28,Switzerland,165.0,True,UK_Card,False,Master
 2019-02-04 02:01:13,Switzerland,151.0,False,UK_Card,False,Master
 2019-02-04 02:01:27,Switzerland,151.0,False,UK_Card,False,Master
-2019-02-04 02:01:52,Switzerland,151.0,False,UK_Card,False,Master
 2019-02-04 02:01:52,Switzerland,151.0,False,UK_Card,False,Master
 2019-02-04 02:02:07,Switzerland,151.0,False,Moneycard,False,Master
 2019-02-04 02:02:11,Switzerland,151.0,False,UK_Card,False,Master
@@ -30640,8 +30596,6 @@ tmsp,country,amount,success,PSP,3D_secured,card
 2019-02-05 03:51:10,Austria,228.0,True,UK_Card,False,Visa
 2019-02-05 03:54:51,Germany,199.0,True,UK_Card,False,Master
 2019-02-05 03:58:06,Austria,41.0,False,UK_Card,True,Master
-2019-02-05 03:58:06,Austria,41.0,False,UK_Card,True,Master
-2019-02-05 03:58:38,Austria,41.0,False,UK_Card,True,Master
 2019-02-05 03:58:38,Austria,41.0,False,UK_Card,True,Master
 2019-02-05 03:58:48,Austria,41.0,False,UK_Card,True,Master
 2019-02-05 04:00:37,Germany,197.0,False,Simplecard,True,Master
@@ -31085,7 +31039,6 @@ tmsp,country,amount,success,PSP,3D_secured,card
 2019-02-05 14:06:13,Germany,229.0,True,Simplecard,False,Master
 2019-02-05 14:07:22,Austria,316.0,False,Moneycard,True,Master
 2019-02-05 14:07:49,Austria,316.0,False,Simplecard,True,Master
-2019-02-05 14:08:18,Austria,316.0,False,UK_Card,True,Master
 2019-02-05 14:08:18,Austria,316.0,False,UK_Card,True,Master
 2019-02-05 14:08:57,Austria,316.0,False,UK_Card,True,Master
 2019-02-05 14:09:17,Austria,316.0,False,Moneycard,True,Master
@@ -32071,9 +32024,7 @@ tmsp,country,amount,success,PSP,3D_secured,card
 2019-02-06 12:37:37,Austria,161.0,False,UK_Card,False,Diners
 2019-02-06 12:37:38,Austria,161.0,False,Goldcard,False,Diners
 2019-02-06 12:37:50,Austria,161.0,False,UK_Card,False,Diners
-2019-02-06 12:37:50,Austria,161.0,False,UK_Card,False,Diners
 2019-02-06 12:38:18,Austria,161.0,False,UK_Card,False,Diners
-2019-02-06 12:41:05,Austria,334.0,False,UK_Card,False,Master
 2019-02-06 12:41:05,Austria,334.0,False,UK_Card,False,Master
 2019-02-06 12:41:05,Austria,334.0,True,Goldcard,False,Master
 2019-02-06 12:42:53,Germany,182.0,False,UK_Card,False,Diners
@@ -32546,7 +32497,6 @@ tmsp,country,amount,success,PSP,3D_secured,card
 2019-02-06 23:28:24,Germany,194.0,True,UK_Card,True,Master
 2019-02-06 23:32:17,Germany,202.0,False,UK_Card,False,Visa
 2019-02-06 23:33:11,Germany,202.0,False,Simplecard,False,Visa
-2019-02-06 23:33:53,Germany,202.0,False,Simplecard,False,Visa
 2019-02-06 23:33:53,Germany,202.0,False,Simplecard,False,Visa
 2019-02-06 23:34:55,Austria,202.0,False,Moneycard,True,Visa
 2019-02-06 23:36:13,Germany,180.0,False,Moneycard,False,Visa
@@ -33209,7 +33159,6 @@ tmsp,country,amount,success,PSP,3D_secured,card
 2019-02-07 16:10:37,Germany,73.0,False,UK_Card,False,Diners
 2019-02-07 16:11:04,Germany,73.0,False,Simplecard,False,Diners
 2019-02-07 16:11:37,Germany,73.0,True,UK_Card,False,Diners
-2019-02-07 16:15:51,Switzerland,82.0,False,UK_Card,True,Master
 2019-02-07 16:15:51,Switzerland,82.0,False,UK_Card,True,Master
 2019-02-07 16:17:00,Germany,151.0,False,Simplecard,False,Master
 2019-02-07 16:17:36,Germany,151.0,False,Simplecard,False,Master
@@ -34276,7 +34225,6 @@ tmsp,country,amount,success,PSP,3D_secured,card
 2019-02-08 19:20:48,Germany,347.0,False,Goldcard,False,Visa
 2019-02-08 19:20:51,Germany,347.0,False,Simplecard,False,Visa
 2019-02-08 19:22:29,Germany,236.0,False,Simplecard,False,Master
-2019-02-08 19:22:29,Germany,236.0,False,Simplecard,False,Master
 2019-02-08 19:23:46,Germany,257.0,True,Moneycard,True,Master
 2019-02-08 19:26:43,Switzerland,245.0,False,UK_Card,True,Master
 2019-02-08 19:27:58,Germany,195.0,False,UK_Card,False,Visa
@@ -35272,7 +35220,6 @@ tmsp,country,amount,success,PSP,3D_secured,card
 2019-02-10 02:16:22,Austria,166.0,True,UK_Card,False,Diners
 2019-02-10 02:17:34,Germany,205.0,True,Moneycard,False,Master
 2019-02-10 02:18:46,Austria,164.0,True,UK_Card,False,Visa
-2019-02-10 02:21:12,Germany,245.0,False,UK_Card,False,Master
 2019-02-10 02:21:12,Germany,245.0,False,UK_Card,False,Master
 2019-02-10 02:23:48,Germany,409.0,False,Goldcard,False,Master
 2019-02-10 02:25:39,Switzerland,420.0,False,Simplecard,False,Master
@@ -36581,7 +36528,6 @@ tmsp,country,amount,success,PSP,3D_secured,card
 2019-02-11 18:06:15,Germany,226.0,False,UK_Card,False,Diners
 2019-02-11 18:06:45,Germany,226.0,False,Simplecard,False,Diners
 2019-02-11 18:06:47,Germany,226.0,False,UK_Card,False,Diners
-2019-02-11 18:06:47,Germany,226.0,False,UK_Card,False,Diners
 2019-02-11 18:07:05,Germany,226.0,False,Moneycard,False,Diners
 2019-02-11 18:07:37,Germany,226.0,False,UK_Card,False,Diners
 2019-02-11 18:07:52,Germany,226.0,False,UK_Card,False,Diners
@@ -37358,7 +37304,6 @@ tmsp,country,amount,success,PSP,3D_secured,card
 2019-02-12 13:58:40,Germany,50.0,False,UK_Card,False,Diners
 2019-02-12 13:59:29,Germany,50.0,False,Simplecard,False,Diners
 2019-02-12 13:59:46,Germany,50.0,False,UK_Card,False,Diners
-2019-02-12 13:59:46,Germany,50.0,False,UK_Card,False,Diners
 2019-02-12 14:01:14,Germany,35.0,False,Simplecard,False,Master
 2019-02-12 14:01:15,Germany,35.0,False,Moneycard,False,Master
 2019-02-12 14:02:06,Germany,35.0,True,Moneycard,False,Master
@@ -37420,7 +37365,6 @@ tmsp,country,amount,success,PSP,3D_secured,card
 2019-02-12 15:50:36,Germany,219.0,True,Simplecard,False,Master
 2019-02-12 15:51:49,Germany,26.0,False,Simplecard,False,Master
 2019-02-12 15:52:39,Germany,26.0,False,Simplecard,False,Master
-2019-02-12 15:52:51,Germany,26.0,False,UK_Card,False,Master
 2019-02-12 15:52:51,Germany,26.0,False,UK_Card,False,Master
 2019-02-12 15:52:56,Germany,26.0,False,Simplecard,False,Master
 2019-02-12 15:53:14,Germany,26.0,False,UK_Card,False,Master
@@ -38443,7 +38387,6 @@ tmsp,country,amount,success,PSP,3D_secured,card
 2019-02-13 17:00:39,Germany,110.0,False,Simplecard,False,Diners
 2019-02-13 17:00:47,Germany,110.0,True,UK_Card,False,Diners
 2019-02-13 17:02:46,Germany,330.0,False,UK_Card,False,Master
-2019-02-13 17:02:46,Germany,330.0,False,UK_Card,False,Master
 2019-02-13 17:03:07,Germany,330.0,False,UK_Card,False,Master
 2019-02-13 17:03:22,Germany,330.0,True,UK_Card,False,Master
 2019-02-13 17:06:38,Austria,184.0,True,UK_Card,True,Master
@@ -39042,7 +38985,6 @@ tmsp,country,amount,success,PSP,3D_secured,card
 2019-02-14 10:07:33,Germany,143.0,True,Simplecard,True,Visa
 2019-02-14 10:11:33,Austria,278.0,False,Simplecard,False,Visa
 2019-02-14 10:11:46,Austria,278.0,False,Simplecard,False,Visa
-2019-02-14 10:11:46,Austria,278.0,False,Simplecard,False,Visa
 2019-02-14 10:13:03,Germany,372.0,False,Simplecard,False,Master
 2019-02-14 10:13:16,Germany,372.0,False,Goldcard,False,Master
 2019-02-14 10:16:56,Germany,235.0,False,Simplecard,True,Diners
@@ -39554,7 +39496,6 @@ tmsp,country,amount,success,PSP,3D_secured,card
 2019-02-15 02:02:13,Germany,60.0,False,Moneycard,False,Master
 2019-02-15 02:06:10,Germany,198.0,True,Moneycard,False,Master
 2019-02-15 02:07:42,Germany,218.0,False,UK_Card,False,Diners
-2019-02-15 02:07:42,Germany,218.0,False,UK_Card,False,Diners
 2019-02-15 02:10:20,Austria,111.0,False,UK_Card,True,Diners
 2019-02-15 02:12:09,Germany,222.0,False,Simplecard,False,Master
 2019-02-15 02:15:42,Switzerland,384.0,False,Simplecard,False,Master
@@ -39652,7 +39593,6 @@ tmsp,country,amount,success,PSP,3D_secured,card
 2019-02-15 05:06:00,Germany,101.0,True,UK_Card,False,Master
 2019-02-15 05:07:37,Austria,241.0,True,Goldcard,False,Master
 2019-02-15 05:12:33,Austria,236.0,False,UK_Card,False,Master
-2019-02-15 05:12:33,Austria,236.0,False,UK_Card,False,Master
 2019-02-15 05:16:00,Austria,197.0,True,Simplecard,True,Master
 2019-02-15 05:17:38,Germany,57.0,False,Simplecard,True,Diners
 2019-02-15 05:17:51,Germany,57.0,False,Simplecard,True,Diners
@@ -39726,7 +39666,6 @@ tmsp,country,amount,success,PSP,3D_secured,card
 2019-02-15 07:56:31,Germany,204.0,False,UK_Card,False,Master
 2019-02-15 07:56:44,Germany,204.0,False,Simplecard,False,Master
 2019-02-15 07:57:22,Germany,204.0,False,UK_Card,False,Master
-2019-02-15 07:58:02,Germany,204.0,False,UK_Card,False,Master
 2019-02-15 07:58:02,Germany,204.0,False,UK_Card,False,Master
 2019-02-15 08:00:38,Germany,192.0,False,Simplecard,True,Master
 2019-02-15 08:03:14,Austria,156.0,False,UK_Card,False,Master
@@ -42363,7 +42302,6 @@ tmsp,country,amount,success,PSP,3D_secured,card
 2019-02-18 19:13:46,Germany,150.0,True,UK_Card,False,Diners
 2019-02-18 19:15:17,Austria,474.0,False,Simplecard,False,Master
 2019-02-18 19:18:45,Germany,236.0,False,UK_Card,False,Diners
-2019-02-18 19:18:45,Germany,236.0,False,UK_Card,False,Diners
 2019-02-18 19:18:58,Germany,236.0,False,Simplecard,False,Diners
 2019-02-18 19:20:16,Switzerland,136.0,False,Simplecard,False,Master
 2019-02-18 19:20:24,Switzerland,136.0,False,UK_Card,False,Master
@@ -43223,7 +43161,6 @@ tmsp,country,amount,success,PSP,3D_secured,card
 2019-02-19 19:46:13,Germany,207.0,False,Simplecard,False,Master
 2019-02-19 19:49:34,Switzerland,167.0,False,UK_Card,False,Master
 2019-02-19 19:50:30,Switzerland,167.0,False,Simplecard,False,Master
-2019-02-19 19:55:21,Austria,212.0,False,Moneycard,False,Diners
 2019-02-19 19:55:21,Austria,212.0,False,Moneycard,False,Diners
 2019-02-19 19:57:13,Switzerland,281.0,False,Simplecard,True,Master
 2019-02-19 19:58:09,Switzerland,281.0,False,Simplecard,True,Master
@@ -44608,7 +44545,6 @@ tmsp,country,amount,success,PSP,3D_secured,card
 2019-02-21 11:30:18,Switzerland,293.0,False,UK_Card,False,Diners
 2019-02-21 11:30:50,Switzerland,293.0,False,Moneycard,False,Diners
 2019-02-21 11:32:32,Germany,343.0,False,UK_Card,False,Master
-2019-02-21 11:32:32,Germany,343.0,False,UK_Card,False,Master
 2019-02-21 11:33:16,Germany,343.0,False,Moneycard,False,Master
 2019-02-21 11:33:33,Germany,343.0,False,Simplecard,False,Master
 2019-02-21 11:33:38,Germany,343.0,False,UK_Card,False,Master
@@ -45291,7 +45227,6 @@ tmsp,country,amount,success,PSP,3D_secured,card
 2019-02-22 09:32:55,Germany,133.0,True,Goldcard,False,Diners
 2019-02-22 09:34:18,Germany,276.0,False,UK_Card,False,Master
 2019-02-22 09:34:56,Germany,276.0,False,Simplecard,False,Master
-2019-02-22 09:35:58,Switzerland,242.0,False,UK_Card,False,Master
 2019-02-22 09:35:58,Switzerland,242.0,False,UK_Card,False,Master
 2019-02-22 09:37:16,Switzerland,241.0,False,Simplecard,False,Visa
 2019-02-22 09:37:47,Switzerland,241.0,False,UK_Card,False,Visa
@@ -46253,7 +46188,6 @@ tmsp,country,amount,success,PSP,3D_secured,card
 2019-02-23 17:41:30,Germany,258.0,True,UK_Card,True,Master
 2019-02-23 17:44:44,Switzerland,209.0,False,UK_Card,False,Visa
 2019-02-23 17:45:19,Switzerland,209.0,False,UK_Card,False,Visa
-2019-02-23 17:45:19,Switzerland,209.0,False,UK_Card,False,Visa
 2019-02-23 17:46:29,Switzerland,241.0,True,Moneycard,False,Master
 2019-02-23 17:48:46,Germany,178.0,False,Moneycard,False,Diners
 2019-02-23 17:49:33,Germany,178.0,False,Simplecard,False,Diners
@@ -46265,7 +46199,6 @@ tmsp,country,amount,success,PSP,3D_secured,card
 2019-02-23 17:58:14,Germany,266.0,False,UK_Card,False,Visa
 2019-02-23 17:58:41,Germany,266.0,True,UK_Card,False,Visa
 2019-02-23 18:00:11,Austria,303.0,False,UK_Card,False,Master
-2019-02-23 18:01:55,Switzerland,271.0,False,UK_Card,True,Master
 2019-02-23 18:01:55,Switzerland,271.0,False,UK_Card,True,Master
 2019-02-23 18:04:52,Germany,161.0,False,UK_Card,False,Diners
 2019-02-23 18:05:11,Germany,161.0,True,Moneycard,False,Diners
@@ -46662,7 +46595,6 @@ tmsp,country,amount,success,PSP,3D_secured,card
 2019-02-24 08:31:05,Austria,189.0,False,UK_Card,True,Master
 2019-02-24 08:35:18,Germany,299.0,False,UK_Card,False,Diners
 2019-02-24 08:35:21,Germany,299.0,False,UK_Card,False,Diners
-2019-02-24 08:35:21,Germany,299.0,False,UK_Card,False,Diners
 2019-02-24 08:46:08,Switzerland,103.0,True,UK_Card,False,Master
 2019-02-24 08:50:51,Switzerland,106.0,True,Simplecard,False,Master
 2019-02-24 08:55:37,Germany,291.0,False,UK_Card,False,Visa
@@ -46998,7 +46930,6 @@ tmsp,country,amount,success,PSP,3D_secured,card
 2019-02-24 22:25:38,Germany,278.0,False,Simplecard,False,Visa
 2019-02-24 22:27:42,Germany,141.0,True,UK_Card,False,Master
 2019-02-24 22:30:02,Germany,309.0,False,UK_Card,True,Visa
-2019-02-24 22:30:02,Germany,309.0,False,UK_Card,True,Visa
 2019-02-24 22:30:34,Germany,309.0,True,Simplecard,True,Visa
 2019-02-24 22:41:53,Germany,205.0,False,Simplecard,False,Master
 2019-02-24 22:45:45,Austria,376.0,False,UK_Card,False,Visa
@@ -47149,7 +47080,6 @@ tmsp,country,amount,success,PSP,3D_secured,card
 2019-02-25 03:19:33,Germany,296.0,False,UK_Card,False,Master
 2019-02-25 03:19:49,Germany,296.0,False,UK_Card,False,Master
 2019-02-25 03:20:10,Germany,296.0,False,UK_Card,False,Master
-2019-02-25 03:20:27,Germany,296.0,False,UK_Card,False,Master
 2019-02-25 03:20:27,Germany,296.0,False,UK_Card,False,Master
 2019-02-25 03:21:01,Germany,296.0,False,UK_Card,False,Master
 2019-02-25 03:21:19,Germany,129.0,False,Simplecard,False,Diners
@@ -47562,7 +47492,6 @@ tmsp,country,amount,success,PSP,3D_secured,card
 2019-02-25 14:46:17,Germany,200.0,False,UK_Card,False,Diners
 2019-02-25 14:48:29,Germany,182.0,False,UK_Card,False,Master
 2019-02-25 14:48:41,Germany,182.0,False,UK_Card,False,Master
-2019-02-25 14:48:41,Germany,182.0,False,UK_Card,False,Master
 2019-02-25 14:48:54,Germany,182.0,True,Moneycard,False,Master
 2019-02-25 14:50:35,Germany,200.0,False,Simplecard,False,Diners
 2019-02-25 14:51:06,Germany,200.0,False,Moneycard,False,Diners
@@ -47619,7 +47548,6 @@ tmsp,country,amount,success,PSP,3D_secured,card
 2019-02-25 16:12:37,Germany,290.0,False,UK_Card,False,Master
 2019-02-25 16:13:34,Germany,290.0,False,Goldcard,False,Master
 2019-02-25 16:14:14,Germany,290.0,False,UK_Card,False,Master
-2019-02-25 16:14:14,Germany,290.0,False,UK_Card,False,Master
 2019-02-25 16:18:08,Germany,141.0,True,Moneycard,True,Master
 2019-02-25 16:21:47,Austria,417.0,True,Simplecard,False,Diners
 2019-02-25 16:24:01,Germany,197.0,False,UK_Card,False,Master
@@ -47640,7 +47568,6 @@ tmsp,country,amount,success,PSP,3D_secured,card
 2019-02-25 17:01:04,Germany,191.0,True,Moneycard,False,Diners
 2019-02-25 17:02:31,Germany,101.0,False,UK_Card,False,Master
 2019-02-25 17:03:11,Germany,101.0,True,Moneycard,False,Master
-2019-02-25 17:04:40,Austria,169.0,False,UK_Card,True,Master
 2019-02-25 17:04:40,Austria,169.0,False,UK_Card,True,Master
 2019-02-25 17:09:48,Germany,415.0,True,Simplecard,True,Master
 2019-02-25 17:11:07,Germany,254.0,False,UK_Card,False,Master
@@ -48481,7 +48408,6 @@ tmsp,country,amount,success,PSP,3D_secured,card
 2019-02-26 15:52:38,Switzerland,177.0,True,Moneycard,True,Master
 2019-02-26 15:57:17,Germany,258.0,False,UK_Card,True,Master
 2019-02-26 15:57:44,Germany,258.0,False,UK_Card,True,Master
-2019-02-26 15:57:44,Germany,258.0,False,UK_Card,True,Master
 2019-02-26 15:57:58,Germany,258.0,False,Simplecard,True,Master
 2019-02-26 15:58:56,Germany,258.0,False,UK_Card,True,Master
 2019-02-26 15:58:59,Germany,258.0,True,Goldcard,True,Master
@@ -48683,12 +48609,10 @@ tmsp,country,amount,success,PSP,3D_secured,card
 2019-02-26 21:30:37,Germany,349.0,False,Simplecard,False,Diners
 2019-02-26 21:33:17,Germany,213.0,False,Moneycard,False,Diners
 2019-02-26 21:37:30,Germany,184.0,False,Moneycard,False,Diners
-2019-02-26 21:37:30,Germany,184.0,False,Moneycard,False,Diners
 2019-02-26 21:37:31,Germany,184.0,False,UK_Card,False,Diners
 2019-02-26 21:40:31,Germany,175.0,False,Moneycard,False,Visa
 2019-02-26 21:41:46,Austria,161.0,False,Simplecard,False,Visa
 2019-02-26 21:42:36,Austria,161.0,True,UK_Card,False,Visa
-2019-02-26 21:43:54,Austria,465.0,False,UK_Card,False,Master
 2019-02-26 21:43:54,Austria,465.0,False,UK_Card,False,Master
 2019-02-26 21:45:01,Germany,312.0,False,Simplecard,False,Master
 2019-02-26 21:47:37,Germany,244.0,True,UK_Card,False,Visa
@@ -49516,7 +49440,6 @@ tmsp,country,amount,success,PSP,3D_secured,card
 2019-02-27 21:44:09,Germany,208.0,False,Simplecard,False,Master
 2019-02-27 21:49:53,Germany,186.0,False,UK_Card,False,Visa
 2019-02-27 21:50:28,Germany,186.0,False,UK_Card,False,Visa
-2019-02-27 21:50:28,Germany,186.0,False,UK_Card,False,Visa
 2019-02-27 21:51:02,Germany,186.0,False,UK_Card,False,Visa
 2019-02-27 21:52:41,Germany,194.0,False,UK_Card,False,Visa
 2019-02-27 21:53:17,Germany,194.0,False,Simplecard,False,Visa
@@ -49807,7 +49730,6 @@ tmsp,country,amount,success,PSP,3D_secured,card
 2019-02-28 06:08:17,Austria,29.0,False,Moneycard,True,Master
 2019-02-28 06:08:56,Austria,29.0,False,UK_Card,True,Master
 2019-02-28 06:09:22,Austria,29.0,False,UK_Card,True,Master
-2019-02-28 06:10:53,Germany,29.0,False,UK_Card,False,Master
 2019-02-28 06:10:53,Germany,29.0,False,UK_Card,False,Master
 2019-02-28 06:11:47,Germany,29.0,True,UK_Card,False,Master
 2019-02-28 06:15:32,Switzerland,140.0,False,UK_Card,True,Diners
@@ -50328,7 +50250,6 @@ tmsp,country,amount,success,PSP,3D_secured,card
 2019-02-28 21:31:30,Switzerland,216.0,False,Simplecard,False,Visa
 2019-02-28 21:34:46,Germany,194.0,True,UK_Card,False,Master
 2019-02-28 21:36:07,Switzerland,161.0,False,UK_Card,False,Visa
-2019-02-28 21:36:07,Switzerland,161.0,False,UK_Card,False,Visa
 2019-02-28 21:38:54,Germany,192.0,False,Moneycard,False,Visa
 2019-02-28 21:39:48,Germany,192.0,False,UK_Card,False,Visa
 2019-02-28 21:39:54,Germany,192.0,False,UK_Card,False,Visa
@@ -50398,12 +50319,10 @@ tmsp,country,amount,success,PSP,3D_secured,card
 2019-02-28 23:30:29,Switzerland,23.0,False,UK_Card,False,Visa
 2019-02-28 23:31:08,Switzerland,23.0,True,UK_Card,False,Visa
 2019-02-28 23:33:01,Germany,208.0,False,UK_Card,False,Master
-2019-02-28 23:33:01,Germany,208.0,False,UK_Card,False,Master
 2019-02-28 23:34:46,Austria,123.0,False,UK_Card,False,Visa
 2019-02-28 23:35:07,Austria,123.0,True,UK_Card,False,Visa
 2019-02-28 23:36:08,Switzerland,242.0,True,UK_Card,True,Diners
 2019-02-28 23:43:36,Switzerland,208.0,False,Simplecard,False,Master
-2019-02-28 23:45:39,Switzerland,415.0,False,UK_Card,False,Visa
 2019-02-28 23:45:39,Switzerland,415.0,False,UK_Card,False,Visa
 2019-02-28 23:46:48,Austria,91.0,False,UK_Card,False,Master
 2019-02-28 23:47:04,Austria,91.0,False,UK_Card,False,Master
