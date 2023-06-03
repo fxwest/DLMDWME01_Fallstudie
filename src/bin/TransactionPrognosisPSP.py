@@ -17,7 +17,7 @@ from Logger import CustomLogger
 # -------- PARAMETER ---------
 # ----------------------------
 FILE_PATH_TRAINED_MODEL = Path(r"../models/gradient_boosting.pkl")
-MAX_PROBA_DELTA = 10.0
+MAX_PROBA_DELTA = 0.10
 AVAILABLE_PSP = [
     {
         "psp_name": "Moneycard",
@@ -86,8 +86,6 @@ def select_psp(transaction_hour, transaction_amount, is_secured, is_weekend, mod
             success_probability.append(False)
         y_pred_proba_list.append(y_pred_proba[0])
 
-    # TODO: UK und Simplecard vertauschen sich? success_probability = [False, 0.974, False, 0.800]
-
     # --- Select best PSP
     num_success_pred = sum(1 for proba in success_probability if proba)
     if num_success_pred == 0:
@@ -106,10 +104,10 @@ def select_psp(transaction_hour, transaction_amount, is_secured, is_weekend, mod
         selected_psp = AVAILABLE_PSP[max_idx]
         selected_proba = max_proba
         if num_success_pred > 1:
-            temp_success_probability = success_probability
+            temp_success_probability = success_probability.copy()
             temp_success_probability.remove(max_proba)
             sec_max_proba = max(temp_success_probability)
-            sec_max_idx = np.array(success_probability).argmax()
+            sec_max_idx = success_probability.index(sec_max_proba)
             sec_psp_name = AVAILABLE_PSP[sec_max_idx]["psp_name"]
             sec_fee_successfully = AVAILABLE_PSP[sec_max_idx]["fee_successfully"]
             sec_fee_failed = AVAILABLE_PSP[sec_max_idx]["fee_failed"]
@@ -117,9 +115,10 @@ def select_psp(transaction_hour, transaction_amount, is_secured, is_weekend, mod
             log.info(f"Second highest success probability has {sec_psp_name} {round(sec_max_proba * 100, 1)}% and a success fee of {sec_fee_successfully}€ and a fail fee of {sec_fee_failed}€.")
 
             delta_proba = max_proba - sec_max_proba
-            if delta_proba <= MAX_PROBA_DELTA and sec_fee_failed < fee_successfully:
+            if delta_proba <= MAX_PROBA_DELTA and sec_fee_failed < fee_successfully and sec_fee_successfully < fee_successfully:
                 selected_psp = AVAILABLE_PSP[sec_max_idx]
                 selected_proba = sec_max_proba
+                log.info(f"Selecting PSP with second highest success probability, because its cheaper.")
 
     log.info(f"Selected {selected_psp['psp_name']} with a success probability of {round(selected_proba * 100, 1)}% and a success fee of {selected_psp['fee_successfully']}€ and a fail fee of {selected_psp['fee_failed']}€.")
 
@@ -128,7 +127,7 @@ def select_psp(transaction_hour, transaction_amount, is_secured, is_weekend, mod
 
 
 if __name__ == "__main__":
-   select_psp(transaction_hour=9,
-              transaction_amount=120.0,
-              is_secured=True,
+   select_psp(transaction_hour=21,
+              transaction_amount=200.0,
+              is_secured=False,
               is_weekend=True)
