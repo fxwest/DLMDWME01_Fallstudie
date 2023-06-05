@@ -1,5 +1,10 @@
 """
-Docstring ERKLÄRUNG # TODO
+This document consists of a function to select the best PSP (payment service provider).
+Best means highest success probability and lowest fees.
+This is conducted by using a machine learning model which was already trained and parametrized (see notebooks).
+This document also contains example parameters and an example call of the function.
+For a production implementation you would need to add the transaction interface.
+By Felix Westphal - Matr.Nr.: 321149364
 """
 
 # ----------------------------
@@ -10,6 +15,7 @@ import numpy as np
 import pandas as pd
 import logging as log
 from pathlib import Path
+from datetime import datetime
 from Logger import CustomLogger
 
 
@@ -62,9 +68,19 @@ def load_model(model_path):
 # ---------- MAIN ------------
 # ----------------------------
 def select_psp(transaction_hour, transaction_amount, is_secured, is_weekend, model_path=FILE_PATH_TRAINED_MODEL):
+    """
+    This function selects the best PSP (payment service provider). Best means highest success probability and lowest fees.
+    :param transaction_hour: The hour of the transaction timestamp.
+    :param transaction_amount: The amount of the transaction.
+    :param is_secured: True if the transaction is 3D-Secured.
+    :param is_weekend: True if the day of the transaction timestamp is a weekend day.
+    :param model_path: The file path of the to be used trained ML model.
+    :return: Returns a tuple of the selected PSP including PSP details and the success probability.
+    """
     CustomLogger()                                                                                                      # Set and load custom logger
     log.info("Starting Credit Card Transaction Tool...")
     loaded_model = load_model(model_path)
+    log.info(f"Provided parameters: \nTransaction Hour: {transaction_hour} \nTransaction Amount: {transaction_amount}€ \nIs 3D-Secured: {is_secured} \nIs Weekend: {is_weekend}")
 
     # --- Estimate PSP success probabilities
     success_probability = []
@@ -131,15 +147,24 @@ def select_psp(transaction_hour, transaction_amount, is_secured, is_weekend, mod
                 selected_proba = sec_max_proba
                 log.info(f"Selecting PSP with second-highest success probability, because its cheaper and the probability for success is only {round(delta_proba * 100, 1)}% lower.")
 
+    log.info(f"Selected {selected_psp['psp_name']} with a success probability of {round(selected_proba * 100, 1)}% and a success fee of {selected_psp['fee_successfully']}€ and a fail fee of {selected_psp['fee_failed']}€.")
     return selected_psp, selected_proba
 
 
 if __name__ == "__main__":
-   selected_psp, selected_proba = select_psp(transaction_hour=14,
-                                             transaction_amount=80.9,
-                                             is_secured=True,
-                                             is_weekend=True)
-   log.info(f"Selected {selected_psp['psp_name']} with a success probability of {round(selected_proba * 100, 1)}% and a success fee of {selected_psp['fee_successfully']}€ and a fail fee of {selected_psp['fee_failed']}€.")
-   # TODO: Feedback if transaction was successful and save to database for further training and model improvement
-   # TODO: Track fees of successful and failed transactions for visualization in grafana
-   
+    time_now = datetime.now()
+    day_number = datetime.today().weekday()
+    if day_number < 5:
+        is_weekend = False
+    else:
+        is_weekend = True
+
+    # --- Start PSP selection
+    psp_selection_tuple = select_psp(transaction_hour=time_now.hour,
+                                     transaction_amount=80.9,
+                                     is_secured=True,
+                                     is_weekend=is_weekend)
+
+    # TODO: Initiate transaction based on psp selection
+    # TODO: Receive Feedback whether transaction was successful and save to database for further training and model improvement
+    # TODO: Track fees of successful and failed transactions for visualization in e.g. grafana in combination with a mySQL database
